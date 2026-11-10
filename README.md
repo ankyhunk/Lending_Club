@@ -5,6 +5,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [How to Run](#how-to-run)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -23,6 +24,19 @@ The Probability of an Applicant defaulting on the Loan is high when -
 - They have >10 years of Experience and Loan Amount is >10K with Interest Rate > 10%.
 The Indicators for Loan defaulters are -
 - Annual Income, Home Ownership, Purpose of Loan, Loan Amount, Interest Rate
+
+## How to Run
+1. Install the libraries:
+   ```bash
+   pip install numpy pandas matplotlib seaborn
+   ```
+2. Get the data: `loan.csv` (Lending Club loan data provided with the upGrad case study; place it next to the notebook).
+3. Open and run the notebook:
+   ```bash
+   jupyter notebook Ankur_A_Gupta.ipynb
+   ```
+
+The slides with the findings are in `Lending_Club_Case_Study.pdf`.
 
 ## Technologies Used
 - Python
