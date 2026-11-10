@@ -35,7 +35,7 @@ The Probability of an Applicant defaulting on the Loan is high when -
    jupyter notebook Ankur_A_Gupta.ipynb
    ```
 
-The slides with the findings are in `Lending_Club_Case_Study.pdf`.
+The slides with the findings are in `Lending_Club.pdf`.
 
 ## Technologies Used
 - Python
